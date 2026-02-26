@@ -20,6 +20,14 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced data types: int, double, String, char, boolean
 - Understood storing and printing data
 
+## ✅ Day 3 – Operators
+- Learned Arithmetic Operators (+, -, *, /, %)
+- Understood integer division and remainder
+- Practiced Increment (++) and Decrement (--)
+- Learned Comparison Operators (==, !=, >, <, >=, <=)
+- Practiced Logical Operators (&&, ||, !)
+- Understood boolean outputs (true / false)
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
