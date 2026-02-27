@@ -28,6 +28,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced Logical Operators (&&, ||, !)
 - Understood boolean outputs (true / false)
 
+## ✅ Day 4 – User Input (Scanner)
+- Learned how to use Scanner class
+- Took input from user
+- Built a simple calculator
+- Performed arithmetic operations on user input
+- Understood importance of closing Scanner
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
