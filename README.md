@@ -35,6 +35,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Performed arithmetic operations on user input
 - Understood importance of closing Scanner
 
+## ✅ Day 5 – If-Else & Grade Calculator
+- Learned decision making using if-else
+- Understood how conditions return true/false
+- Practiced else-if ladder
+- Built a Grade Calculator program
+- Combined Scanner with conditional logic
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
