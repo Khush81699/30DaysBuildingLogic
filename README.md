@@ -42,6 +42,12 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Built a Grade Calculator program
 - Combined Scanner with conditional logic
 
+## ✅ Day 6 – Nested If & Even/Odd Checker
+- Learned nested if statements
+- Built Even/Odd checker using modulus
+- Practiced positive/negative number checking
+- Improved logical thinking
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
