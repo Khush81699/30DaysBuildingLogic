@@ -48,6 +48,14 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced positive/negative number checking
 - Improved logical thinking
 
+
+## ✅ Day 7 – Switch Statement & Menu Calculator
+- Learned switch statement
+- Understood case, break, and default
+- Built menu-driven calculator
+- Handled division by zero
+- Improved decision-making logic
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
