@@ -56,6 +56,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Handled division by zero
 - Improved decision-making logic
 
+## ✅ Day 8 – Classes & Objects
+- Learned concept of Class and Object
+- Understood instance variables
+- Created methods inside class
+- Created object using new keyword
+- Called methods using object reference
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
