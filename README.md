@@ -63,6 +63,12 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Created object using new keyword
 - Called methods using object reference
 
+## ✅ Day 9 – Constructors
+- Learned what a constructor is
+- Understood constructor syntax
+- Initialized objects using constructor
+- Created multiple objects with different values
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
