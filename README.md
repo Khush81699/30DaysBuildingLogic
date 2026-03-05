@@ -71,6 +71,12 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Used a method to display object details
 - Understood how constructors help initialize object data automatically
 
+## ✅ Day 10 – Methods in Java
+- Learned how to create and use methods
+- Practiced methods with parameters
+- Implemented methods with return values
+- Called methods from the main method
+- Understood code reusability using methods
 
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
