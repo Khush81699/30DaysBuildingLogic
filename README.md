@@ -78,6 +78,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Called methods from the main method
 - Understood code reusability using methods
 
+## ✅ Day 11 – Inheritance in Java
+- Learned the concept of inheritance in object-oriented programming
+- Implemented parent and child class relationship using `extends`
+- Used the `super` keyword to initialize parent class constructor
+- Accessed parent class methods from the child class
+- Understood code reuse and class hierarchy
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
