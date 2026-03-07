@@ -85,6 +85,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Accessed parent class methods from the child class
 - Understood code reuse and class hierarchy
 
+## ✅ Day 12 – Polymorphism (Method Overloading)
+- Learned the concept of polymorphism in Java
+- Implemented method overloading with same method name but different parameters
+- Practiced compile-time polymorphism
+- Created reusable methods for different input types
+- Understood flexibility in method behavior
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
