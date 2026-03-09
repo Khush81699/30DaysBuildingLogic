@@ -92,6 +92,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Created reusable methods for different input types
 - Understood flexibility in method behavior
 
+## ✅ Day 13 – Encapsulation in Java
+- Learned the concept of encapsulation in object-oriented programming
+- Used private variables to hide class data
+- Implemented getter and setter methods
+- Controlled access to class fields
+- Improved data security and structure in Java classes
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
