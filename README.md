@@ -99,6 +99,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Controlled access to class fields
 - Improved data security and structure in Java classes
 
+## ✅ Day 14 – Abstraction in Java
+- Learned the concept of abstraction in object-oriented programming
+- Created an abstract class with abstract methods
+- Implemented abstract methods in a child class
+- Used abstraction to hide implementation details
+- Completed the four pillars of OOP in Java
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
