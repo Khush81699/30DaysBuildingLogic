@@ -106,6 +106,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Used abstraction to hide implementation details
 - Completed the four pillars of OOP in Java
 
+## ✅ Day 15 – Interfaces in Java
+- Learned the concept of interfaces
+- Defined methods inside an interface
+- Implemented interface methods in multiple classes
+- Demonstrated abstraction using interfaces
+- Understood how interfaces allow flexible and reusable design
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
