@@ -127,6 +127,14 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Implemented multiple catch blocks to handle different exceptions
 - Practiced validation logic using custom exceptions
 
+## ✅ Day 18 – Java Collections (ArrayList)
+- Learned the basics of the Java Collections Framework
+- Implemented ArrayList for dynamic data storage
+- Added elements to a collection
+- Updated and removed elements from the list
+- Iterated through the list using a loop
+- Used common ArrayList methods such as add(), get(), set(), remove(), and size()
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
