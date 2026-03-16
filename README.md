@@ -120,6 +120,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Used finally block to execute cleanup code
 - Practiced handling ArithmeticException
 
+## ✅ Day 17 – Custom Exception & Multiple Catch Blocks
+- Learned how to create a custom exception class
+- Used the `throw` keyword to trigger exceptions
+- Used `throws` in method declaration
+- Implemented multiple catch blocks to handle different exceptions
+- Practiced validation logic using custom exceptions
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
