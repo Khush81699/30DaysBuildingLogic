@@ -135,6 +135,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Iterated through the list using a loop
 - Used common ArrayList methods such as add(), get(), set(), remove(), and size()
 
+## ✅ Day 19 – Java Collections (HashMap)
+- Learned the concept of key-value data storage using HashMap
+- Implemented HashMap to store and manage data efficiently
+- Added, accessed, updated, and removed entries
+- Iterated through HashMap using entrySet()
+- Used methods like put(), get(), remove(), and size()
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
