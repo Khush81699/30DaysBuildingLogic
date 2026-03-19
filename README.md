@@ -142,6 +142,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Iterated through HashMap using entrySet()
 - Used methods like put(), get(), remove(), and size()
 
+## ✅ Day 20 – File Handling in Java
+- Learned how to read and write files in Java
+- Used FileWriter to write data into a file
+- Used FileReader to read data from a file
+- Implemented exception handling for file operations
+- Practiced basic file operations for persistent storage
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
