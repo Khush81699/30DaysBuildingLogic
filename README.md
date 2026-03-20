@@ -149,6 +149,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Implemented exception handling for file operations
 - Practiced basic file operations for persistent storage
 
+## ✅ Day 21 – String Handling & StringBuilder
+- Learned operations on String such as length(), substring(), replace(), and contains()
+- Performed case conversion using toUpperCase() and toLowerCase()
+- Implemented StringBuilder for mutable string operations
+- Used methods like append(), insert(), delete(), and reverse()
+- Understood difference between String and StringBuilder
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
