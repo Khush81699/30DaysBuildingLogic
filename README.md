@@ -156,6 +156,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Used methods like append(), insert(), delete(), and reverse()
 - Understood difference between String and StringBuilder
 
+## ✅ Day 22 – Arrays in Java
+- Learned how to declare and initialize arrays
+- Traversed array using loop
+- Calculated sum of array elements
+- Found maximum element in array
+- Printed array in reverse order
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
