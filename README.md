@@ -163,6 +163,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Found maximum element in array
 - Printed array in reverse order
 
+## ✅ Day 23 – Array Logic (Sorting & Searching)
+- Implemented Bubble Sort algorithm
+- Sorted array elements in ascending order
+- Performed linear search on array
+- Understood basic searching technique
+- Strengthened problem-solving skills using arrays
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
