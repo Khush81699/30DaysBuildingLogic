@@ -170,6 +170,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Understood basic searching technique
 - Strengthened problem-solving skills using arrays
 
+## ✅ Day 24 – String Logic (Reverse, Palindrome, Count)
+- Reversed a string using loop
+- Checked whether a string is a palindrome
+- Counted vowels and consonants in a string
+- Practiced character-level string processing
+- Improved logic building using strings
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
