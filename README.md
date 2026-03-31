@@ -177,6 +177,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced character-level string processing
 - Improved logic building using strings
 
+## ✅ Day 25 – Number Logic (Prime, Factorial, Armstrong)
+- Checked whether a number is prime
+- Calculated factorial using loop
+- Implemented Armstrong number logic
+- Practiced number-based problem solving
+- Strengthened logical thinking skills
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
