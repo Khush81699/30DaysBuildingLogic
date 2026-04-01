@@ -184,6 +184,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced number-based problem solving
 - Strengthened logical thinking skills
 
+## ✅ Day 26 – Pattern Programming
+- Implemented star pattern using nested loops
+- Created right-aligned triangle pattern
+- Printed number pattern using loops
+- Practiced nested loop logic
+- Improved problem-solving and pattern recognition skills
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
