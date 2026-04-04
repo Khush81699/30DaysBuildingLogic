@@ -191,6 +191,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced nested loop logic
 - Improved problem-solving and pattern recognition skills
 
+## ✅ Day 27 – Recursion in Java
+- Learned the concept of recursion
+- Implemented factorial using recursion
+- Implemented Fibonacci series using recursion
+- Understood base case and recursive calls
+- Practiced problem solving using recursive approach
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
