@@ -198,6 +198,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Understood base case and recursive calls
 - Practiced problem solving using recursive approach
 
+## ✅ Day 28 – Sorting Algorithms (Selection & Insertion Sort)
+- Implemented Selection Sort algorithm
+- Implemented Insertion Sort algorithm
+- Understood comparison-based sorting techniques
+- Practiced array manipulation and ordering logic
+- Strengthened DSA fundamentals
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
