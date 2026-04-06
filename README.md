@@ -205,6 +205,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Practiced array manipulation and ordering logic
 - Strengthened DSA fundamentals
 
+## ✅ Day 29 – Searching Algorithm (Binary Search)
+- Implemented Binary Search algorithm
+- Applied search on a sorted array
+- Optimized searching using divide and conquer approach
+- Improved time complexity compared to linear search
+- Strengthened problem-solving skills in searching techniques
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
