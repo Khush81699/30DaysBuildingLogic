@@ -212,6 +212,13 @@ This repository contains my daily Java practice as part of my 30-day consistency
 - Improved time complexity compared to linear search
 - Strengthened problem-solving skills in searching techniques
 
+## ✅ Day 30 – Mini Project (Student Management System)
+- Built a console-based Student Management System
+- Used ArrayList to store student data
+- Applied OOP concepts (class, object, encapsulation)
+- Implemented add, view, and search functionality
+- Combined multiple Java concepts into a real project
+
 This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
 
 Stay tuned for daily updates 🔥
