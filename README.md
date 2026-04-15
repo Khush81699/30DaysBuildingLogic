@@ -1,224 +1,186 @@
 # 30 Days Building Logic Challenge 🚀
 
-This repository contains my daily Java practice as part of my 30-day consistency challenge.
-
-## Goal
-- Strengthen programming fundamentals
-- Improve logical thinking
-- Build confidence in Java
-- Build consistency in coding
+This repository documents my 30-day journey of learning Java and building strong programming fundamentals through consistent daily practice.
 
 ---
 
+## 🎯 Goal
+- Strengthen programming fundamentals  
+- Improve logical thinking  
+- Build confidence in Java  
+- Develop coding consistency  
+- Enhance problem-solving skills  
+
+---
+
+## 📅 Daily Progress
+
 ## ✅ Day 01 – Java Basics
-- Learned Java program structure
-- Practiced print statements
-- Understood main() method
+- Learned Java program structure  
+- Practiced print statements  
+- Understood `main()` method  
 
 ## ✅ Day 02 – Variables & Data Types
-- Learned about variables
-- Practiced data types: int, double, String, char, boolean
-- Understood storing and printing data
+- Learned variables and data types  
+- Practiced int, double, String, char, boolean  
+- Stored and displayed values  
 
 ## ✅ Day 03 – Operators
-- Learned Arithmetic Operators (+, -, *, /, %)
-- Understood integer division and remainder
-- Practiced Increment (++) and Decrement (--)
-- Learned Comparison Operators (==, !=, >, <, >=, <=)
-- Practiced Logical Operators (&&, ||, !)
-- Understood boolean outputs (true / false)
+- Used arithmetic, comparison, and logical operators  
+- Practiced increment and decrement  
+- Understood boolean results  
 
 ## ✅ Day 04 – User Input (Scanner)
-- Learned how to use Scanner class
-- Took input from user
-- Built a simple calculator
-- Performed arithmetic operations on user input
-- Understood importance of closing Scanner
+- Took input using Scanner  
+- Built a simple calculator  
+- Performed arithmetic operations  
 
 ## ✅ Day 05 – If-Else & Grade Calculator
-- Learned decision making using if-else
-- Understood how conditions return true/false
-- Practiced else-if ladder
-- Built a Grade Calculator program
-- Combined Scanner with conditional logic
+- Implemented decision making  
+- Practiced else-if ladder  
+- Built grade calculator  
 
 ## ✅ Day 06 – Nested If & Even/Odd Checker
-- Learned nested if statements
-- Built Even/Odd checker using modulus
-- Practiced positive/negative number checking
-- Improved logical thinking
-
+- Used nested conditions  
+- Built even/odd checker  
+- Improved logical flow  
 
 ## ✅ Day 07 – Switch Statement & Menu Calculator
-- Learned switch statement
-- Understood case, break, and default
-- Built menu-driven calculator
-- Handled division by zero
-- Improved decision-making logic
+- Implemented switch-case  
+- Built menu-driven program  
+- Handled multiple conditions  
 
 ## ✅ Day 08 – Classes & Objects
-- Learned concept of Class and Object
-- Understood instance variables
-- Created methods inside class
-- Created object using new keyword
-- Called methods using object reference
+- Learned OOP basics  
+- Created class and objects  
+- Used methods inside class  
 
-## ✅ Day 09 – Constructors in Java
-- Learned about constructors in Java
-- Implemented a **default constructor** to initialize objects with default values
-- Implemented a **parameterized constructor** to assign custom values during object creation
-- Created multiple objects of a class
-- Used a method to display object details
-- Understood how constructors help initialize object data automatically
+## ✅ Day 09 – Constructors
+- Implemented default and parameterized constructors  
+- Initialized objects efficiently  
+- Created multiple objects  
 
-## ✅ Day 10 – Methods in Java
-- Learned how to create and use methods
-- Practiced methods with parameters
-- Implemented methods with return values
-- Called methods from the main method
-- Understood code reusability using methods
+## ✅ Day 10 – Methods
+- Created reusable methods  
+- Used parameters and return types  
+- Improved modular coding  
 
-## ✅ Day 11 – Inheritance in Java
-- Learned the concept of inheritance in object-oriented programming
-- Implemented parent and child class relationship using `extends`
-- Used the `super` keyword to initialize parent class constructor
-- Accessed parent class methods from the child class
-- Understood code reuse and class hierarchy
+## ✅ Day 11 – Inheritance
+- Implemented parent-child relationship  
+- Used `extends` keyword  
+- Reused code using inheritance  
 
-## ✅ Day 12 – Polymorphism (Method Overloading)
-- Learned the concept of polymorphism in Java
-- Implemented method overloading with same method name but different parameters
-- Practiced compile-time polymorphism
-- Created reusable methods for different input types
-- Understood flexibility in method behavior
+## ✅ Day 12 – Polymorphism
+- Implemented method overloading  
+- Used same method with different parameters  
+- Understood compile-time polymorphism  
 
-## ✅ Day 13 – Encapsulation in Java
-- Learned the concept of encapsulation in object-oriented programming
-- Used private variables to hide class data
-- Implemented getter and setter methods
-- Controlled access to class fields
-- Improved data security and structure in Java classes
+## ✅ Day 13 – Encapsulation
+- Used private variables  
+- Implemented getters and setters  
+- Controlled data access  
 
-## ✅ Day 14 – Abstraction in Java
-- Learned the concept of abstraction in object-oriented programming
-- Created an abstract class with abstract methods
-- Implemented abstract methods in a child class
-- Used abstraction to hide implementation details
-- Completed the four pillars of OOP in Java
+## ✅ Day 14 – Abstraction
+- Created abstract classes  
+- Implemented abstract methods  
+- Hid implementation details  
 
-## ✅ Day 15 – Interfaces in Java
-- Learned the concept of interfaces
-- Defined methods inside an interface
-- Implemented interface methods in multiple classes
-- Demonstrated abstraction using interfaces
-- Understood how interfaces allow flexible and reusable design
+## ✅ Day 15 – Interfaces
+- Defined and implemented interfaces  
+- Achieved abstraction  
+- Built flexible structure  
 
-## ✅ Day 16 – Exception Handling in Java
-- Learned how Java handles runtime errors using exception handling
-- Used try block to write risky code
-- Implemented catch block to handle exceptions
-- Used finally block to execute cleanup code
-- Practiced handling ArithmeticException
+## ✅ Day 16 – Exception Handling
+- Used try-catch-finally  
+- Handled runtime errors  
+- Prevented program crashes  
 
-## ✅ Day 17 – Custom Exception & Multiple Catch Blocks
-- Learned how to create a custom exception class
-- Used the `throw` keyword to trigger exceptions
-- Used `throws` in method declaration
-- Implemented multiple catch blocks to handle different exceptions
-- Practiced validation logic using custom exceptions
+## ✅ Day 17 – Custom Exception
+- Created custom exceptions  
+- Used throw and throws  
+- Handled multiple exceptions  
 
-## ✅ Day 18 – Java Collections (ArrayList)
-- Learned the basics of the Java Collections Framework
-- Implemented ArrayList for dynamic data storage
-- Added elements to a collection
-- Updated and removed elements from the list
-- Iterated through the list using a loop
-- Used common ArrayList methods such as add(), get(), set(), remove(), and size()
+## ✅ Day 18 – ArrayList
+- Used dynamic data structures  
+- Added, updated, and removed elements  
+- Iterated through collections  
 
-## ✅ Day 19 – Java Collections (HashMap)
-- Learned the concept of key-value data storage using HashMap
-- Implemented HashMap to store and manage data efficiently
-- Added, accessed, updated, and removed entries
-- Iterated through HashMap using entrySet()
-- Used methods like put(), get(), remove(), and size()
+## ✅ Day 19 – HashMap
+- Implemented key-value storage  
+- Managed data efficiently  
+- Used entrySet() iteration  
 
-## ✅ Day 20 – File Handling in Java
-- Learned how to read and write files in Java
-- Used FileWriter to write data into a file
-- Used FileReader to read data from a file
-- Implemented exception handling for file operations
-- Practiced basic file operations for persistent storage
+## ✅ Day 20 – File Handling
+- Read and wrote files  
+- Used FileReader and FileWriter  
+- Handled file exceptions  
 
 ## ✅ Day 21 – String Handling & StringBuilder
-- Learned operations on String such as length(), substring(), replace(), and contains()
-- Performed case conversion using toUpperCase() and toLowerCase()
-- Implemented StringBuilder for mutable string operations
-- Used methods like append(), insert(), delete(), and reverse()
-- Understood difference between String and StringBuilder
+- Used string methods  
+- Performed string manipulation  
+- Implemented StringBuilder  
 
-## ✅ Day 22 – Arrays in Java
-- Learned how to declare and initialize arrays
-- Traversed array using loop
-- Calculated sum of array elements
-- Found maximum element in array
-- Printed array in reverse order
+## ✅ Day 22 – Arrays
+- Worked with arrays  
+- Calculated sum and max  
+- Reversed array  
 
-## ✅ Day 23 – Array Logic (Sorting & Searching)
-- Implemented Bubble Sort algorithm
-- Sorted array elements in ascending order
-- Performed linear search on array
-- Understood basic searching technique
-- Strengthened problem-solving skills using arrays
+## ✅ Day 23 – Sorting & Searching
+- Implemented bubble sort  
+- Performed linear search  
+- Practiced array logic  
 
-## ✅ Day 24 – String Logic (Reverse, Palindrome, Count)
-- Reversed a string using loop
-- Checked whether a string is a palindrome
-- Counted vowels and consonants in a string
-- Practiced character-level string processing
-- Improved logic building using strings
+## ✅ Day 24 – String Logic
+- Reversed string  
+- Checked palindrome  
+- Counted characters  
 
-## ✅ Day 25 – Number Logic (Prime, Factorial, Armstrong)
-- Checked whether a number is prime
-- Calculated factorial using loop
-- Implemented Armstrong number logic
-- Practiced number-based problem solving
-- Strengthened logical thinking skills
+## ✅ Day 25 – Number Logic
+- Implemented prime number check  
+- Calculated factorial  
+- Built Armstrong logic  
 
 ## ✅ Day 26 – Pattern Programming
-- Implemented star pattern using nested loops
-- Created right-aligned triangle pattern
-- Printed number pattern using loops
-- Practiced nested loop logic
-- Improved problem-solving and pattern recognition skills
+- Built star and number patterns  
+- Used nested loops  
+- Improved logic building  
 
-## ✅ Day 27 – Recursion in Java
-- Learned the concept of recursion
-- Implemented factorial using recursion
-- Implemented Fibonacci series using recursion
-- Understood base case and recursive calls
-- Practiced problem solving using recursive approach
+## ✅ Day 27 – Recursion
+- Implemented factorial recursion  
+- Built Fibonacci sequence  
+- Understood recursive flow  
 
-## ✅ Day 28 – Sorting Algorithms (Selection & Insertion Sort)
-- Implemented Selection Sort algorithm
-- Implemented Insertion Sort algorithm
-- Understood comparison-based sorting techniques
-- Practiced array manipulation and ordering logic
-- Strengthened DSA fundamentals
+## ✅ Day 28 – Sorting Algorithms
+- Implemented selection sort  
+- Implemented insertion sort  
+- Strengthened DSA fundamentals  
 
-## ✅ Day 29 – Searching Algorithm (Binary Search)
-- Implemented Binary Search algorithm
-- Applied search on a sorted array
-- Optimized searching using divide and conquer approach
-- Improved time complexity compared to linear search
-- Strengthened problem-solving skills in searching techniques
+## ✅ Day 29 – Binary Search
+- Implemented binary search  
+- Optimized searching  
+- Applied divide and conquer  
 
 ## ✅ Day 30 – Mini Project (Student Management System)
-- Built a console-based Student Management System
-- Used ArrayList to store student data
-- Applied OOP concepts (class, object, encapsulation)
-- Implemented add, view, and search functionality
-- Combined multiple Java concepts into a real project
+- Built console-based application  
+- Used ArrayList and OOP concepts  
+- Implemented add, view, and search features  
 
-This challenge focuses on building strong fundamentals step by step and growing as a software developer through daily practice.
+---
 
-Stay tuned for daily updates 🔥
+## 🚀 Outcome
+- Built strong foundation in Core Java  
+- Mastered OOP concepts (Inheritance, Polymorphism, Encapsulation, Abstraction)  
+- Learned basic DSA concepts  
+- Improved problem-solving skills  
+- Maintained 30 days of coding consistency  
+
+---
+
+## 🔥 Next Steps
+- Advanced Data Structures & Algorithms  
+- Real-world Java projects  
+- Full Stack Development  
+
+---
+
+💡 *Consistency beats motivation.*
